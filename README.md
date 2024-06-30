@@ -1,6 +1,6 @@
 # Prodigy_ML_Task_4
 
-Linkedin Post link: 
+Linkedin Post link: https://www.linkedin.com/posts/gottipati-2004-chervith_machinelearning-prodigyinfotech-activity-7213157775147683840-d0Lt?utm_source=share&utm_medium=member_desktop
 
 Gesture Recognition Using CNN: This repository contains the code and resources for a gesture recognition project using Convolutional Neural Networks (CNN). The project involves preprocessing image data, building a CNN model, and training the model to classify different hand gestures. The dataset used for this project is the LeapGestRecog dataset.
 
